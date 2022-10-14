@@ -32,20 +32,20 @@
   <ItemGroup>
     <Reference Include="0Harmony, Version=2.9.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\MelonLoader\0Harmony.dll</HintPath>
+      <HintPath>..\..\..\Games\Steam\steamapps\common\Freedom Planet 2\MelonLoader\0Harmony.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp">
-      <HintPath>..\..\FP2_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <HintPath>..\..\..\Games\Steam\steamapps\common\Freedom Planet 2\FP2_Data\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="DualSenseAPI">
       <HintPath>..\..\..\Games\Steam\steamapps\common\Freedom Planet 2\Mods\ModsLibs\DualSenseAPI.dll</HintPath>
     </Reference>
     <Reference Include="MelonLoader">
-      <HintPath>..\..\MelonLoader\MelonLoader.dll</HintPath>
+      <HintPath>..\..\..\Games\Steam\steamapps\common\Freedom Planet 2\MelonLoader\MelonLoader.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="UnityEngine">
-      <HintPath>..\..\FP2_Data\Managed\UnityEngine.dll</HintPath>
+      <HintPath>..\..\..\Games\Steam\steamapps\common\Freedom Planet 2\FP2_Data\Managed\UnityEngine.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
