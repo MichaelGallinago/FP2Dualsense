@@ -40,6 +40,9 @@
     <Reference Include="DualSenseAPI">
       <HintPath>..\..\..\Games\Steam\steamapps\common\Freedom Planet 2\Mods\ModsLibs\DualSenseAPI.dll</HintPath>
     </Reference>
+    <Reference Include="DualSenseSharp">
+      <HintPath>..\..\..\Games\Steam\steamapps\common\Freedom Planet 2\UserLibs\DualSenseSharp.dll</HintPath>
+    </Reference>
     <Reference Include="MelonLoader">
       <HintPath>..\..\..\Games\Steam\steamapps\common\Freedom Planet 2\MelonLoader\MelonLoader.dll</HintPath>
     </Reference>
